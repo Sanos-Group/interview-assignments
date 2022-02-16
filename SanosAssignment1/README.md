@@ -15,8 +15,10 @@ After your changes the app should:
 - Visually list metadata of the files
 - show details for the files
 - play the audio for a selected file and resume from the last position upon App re-opening
-- cache the fetched data
-- work offline with cached data
+
+**Bonus:**
+- app should cache the fetched data
+- app should work offline with cached data
 
 Additionally, the app should fulfil the following requirements:
 - it must be functional and robust
